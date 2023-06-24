@@ -4,7 +4,7 @@ from __future__ import unicode_literals, division, absolute_import, print_functi
 from calibre.web.feeds.news import BasicNewsRecipe
 
 class AdvancedUserRecipe1603099369(BasicNewsRecipe):
-    title          = 'Androcardi'
+    title          = 'Deneyelim'
     oldest_article = 7
     max_articles_per_feed = 100
     auto_cleanup   = True
